@@ -24,7 +24,7 @@
  <a href="discordapp.com/users/949397945306984468" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:mirellabiersack@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/mirella-fernandes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
-  <br><p><img align="center" alt="Mirella-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/dcy87sz.gif"></p>
+  <br><p><img align="center" alt="Mirella-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1025204834955186219/1025205037103861760/testegif.gif"></p>
  
   ![Snake animation](https://github.com/MirellaFernandes/MirellaFernandes/blob/output/github-contribution-grid-snake.svg)
  
