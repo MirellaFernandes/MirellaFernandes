@@ -14,7 +14,6 @@
   <img alt="Mirella-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Mirella-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Mirella-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Mimi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1025204834955186219/1025205037103861760/testegif.gif">
 </div>
   
 ##
